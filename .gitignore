@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+
+# VSCode
+.vscode/
+
+# Django
+db.sqlite3
+
+# Docker
+*.log
+*.pid
+*.db
+/media/
+staticfiles/
+pgdata/
+*.sqlite3
+
+# System
+.DS_Store
+
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+*.egg-info/
